@@ -1,4 +1,6 @@
-gslowikowski.github.com
-=======================
+---
+title: GitHub Pages
+layout: post
+---
 
 GitHub Pages
